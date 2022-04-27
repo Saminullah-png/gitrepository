@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "install": "^0.13.0",
+    "jsdom": "^19.0.0",
+    "json-as-xlsx": "^2.4.0",
+    "puppeteer": "^13.5.2",
+    "request": "^2.88.2"
+  }
+}
